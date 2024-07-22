@@ -36,3 +36,5 @@ In these exercises, you will:
 ·       Separate project concerns by creating packages.
 
 ·       Write Java code to connect to a MySQL database and schema.
+
+This is a test change to see how IJ handles VC
